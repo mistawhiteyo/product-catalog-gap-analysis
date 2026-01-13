@@ -1,0 +1,3 @@
+product_id,brand,product_name,is_active,is_deleted,size_norm
+uuid-1,Brand_A,Orange Juice Fresh 1L,true,false,1000ml
+uuid-2,Brand_B,Potato Chips Classic 50g,true,false,50g
